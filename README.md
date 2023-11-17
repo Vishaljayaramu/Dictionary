@@ -71,7 +71,7 @@ In addition to the above points
 
 ![1](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/788c9734-17de-4b75-a313-343bec809d90)
 
-
+![2](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/4ccd7bab-4cda-48cc-bd68-d55df6fa06b9)
 ![3](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/661cbdbb-c3db-4f9d-a148-fc4de547ed99)
 ![4](https://github.com/Vishalj.com/Vishaljayaramu/Dictionary/assets/144142247/204d4f9a-4d4c-4712-818c-941f47088957)
 ![5](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/c09ce6c6-971a-44ad-93d6-11bf14c1492d)
