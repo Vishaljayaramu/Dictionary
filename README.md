@@ -13,7 +13,7 @@
 
 The Static Dictionary App is a web application designed to provide users with a simple and efficient way to look up definitions of words. Leveraging Microsoft Azure services, the app utilizes the Web App Service for hosting, AI Language for natural language processing, and AI Chat Bot for an interactive user experience.
 
-## Demo
+
 
 ## Demo Video 
 
@@ -68,6 +68,7 @@ This application has the following features.
 
 In addition to the above points
 
+## Demo images
 
 ![1](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/788c9734-17de-4b75-a313-343bec809d90)
 
