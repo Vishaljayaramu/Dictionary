@@ -70,16 +70,26 @@ This application has the following features.
 In addition to the above points
 
 
-## Run
+![1](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/788c9734-17de-4b75-a313-343bec809d90)
+![2](https://github
 
-To run this application (the master branch), you have to set your own environmental variables in the server root folder. For security reasons, some variables have been hidden from view and used as environmental variables with the help of dotenv package. Below are the variables that you need to set in order to run the application:
+![3](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/661cbdbb-c3db-4f9d-a148-fc4de547ed99)
+![4](https://github.com/Vishalj
+.com/Vishaljayaramu/Dictionary/assets/144142247/204d4f9a-4d4c-4712-818c-941f47088957)
+![5](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/c09ce6c6-971a-44ad-93d6-11bf14c1492d)
+ayaramu/Dictionary/assets/144142247/f5f35125-0a13-4f58-af2f-2a926533619d)
 
-- SECRET: you can provide any string here, it is used to encrypt the JWT authentication token.
-- PORT: you can provide the port number here.
-- VITE_URL : you can provide the vite url.
-- VITE_IF : provide the images folder address of the web application.
 
-After you've set these environmental variables in the .env file at the root of the server folder, you need to navigate to the root folder and run "npm start" to start the server.
+![6](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/38abe9ba-a5e9-4ed7-8ed0-f46e46da3ae3)
+![7](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/d10ff986-cc9b-435f-bb9c-67e25541617a)
+![8](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/dcb2258a-6758-42f4-90cb-482eb4701db1)
+![9](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/05682c4e-fada-4d7e-b456-73c88bfbf959)
+![10](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/7a2f29d7-cfaa-4808-8f6b-105e55b2d76a)
+![11](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/9af88af5-169b-4078-ac7a-e79d28cbd82e)
+![12](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/c64ed65f-3d61-4f67-82cb-d29eca729d1d)
+![13](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/340988a5-e93e-4395-b609-46949ca65973)
+![14](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/c75c5509-f519-49c3-ae6b-04ed51aeceb4)
+
 ## Copyright
 
 - Copyright 2023 ©
