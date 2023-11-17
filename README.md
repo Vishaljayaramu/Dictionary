@@ -41,17 +41,10 @@ The main technologies used to build this application are:
 
 ## Implementation Of Azure Services
 
-## Azure App Service Used
-
-
-
-## Azure AI Language Service Used
-
-
-## Azure AI Chat Bot Service Used
-
-
-## To deploy the application manually:
+1.Azure App Service Used
+2.Azure AI Language Service Used
+3.Azure AI Chat Bot Service Used
+4.To deploy the application manually:
 
 •	Commit your changes to the main branch.
 •	Push the changes to your repository.
