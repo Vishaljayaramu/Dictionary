@@ -7,7 +7,6 @@
 - [Features](#features)
 - [Technology Used](#technology)
 - [Azure Services](#Azure_Services)
-- [Run](#run)
 - [Copyright](#Copyright)
 
 ## Introduction
