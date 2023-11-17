@@ -70,13 +70,12 @@ In addition to the above points
 
 
 ![1](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/788c9734-17de-4b75-a313-343bec809d90)
-![2](https://github
+
 
 ![3](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/661cbdbb-c3db-4f9d-a148-fc4de547ed99)
-![4](https://github.com/Vishalj
-.com/Vishaljayaramu/Dictionary/assets/144142247/204d4f9a-4d4c-4712-818c-941f47088957)
+![4](https://github.com/Vishalj.com/Vishaljayaramu/Dictionary/assets/144142247/204d4f9a-4d4c-4712-818c-941f47088957)
 ![5](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/c09ce6c6-971a-44ad-93d6-11bf14c1492d)
-ayaramu/Dictionary/assets/144142247/f5f35125-0a13-4f58-af2f-2a926533619d)
+
 
 
 ![6](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/38abe9ba-a5e9-4ed7-8ed0-f46e46da3ae3)
