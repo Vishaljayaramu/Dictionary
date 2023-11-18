@@ -1,4 +1,4 @@
-# Intelligent Dictionary 
+#  Dictionary app 
 
 ## Table of contents
 
