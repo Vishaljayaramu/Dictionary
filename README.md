@@ -17,8 +17,7 @@ The Static Dictionary App is a web application designed to provide users with a 
 
 ## Demo Video 
 
-
-This application is deployed on Azure and can be accessed through the following link:
+This application is deployed on Azure and can be accessed through the following link:  #https://youtu.be/Sep_4OieYzA
 
 
 ## Technology
@@ -53,13 +52,7 @@ The main technologies used to build this application are:
 •	Azure AI Language : employed in the Static Dictionary App to enhance the natural language processing capabilities, making the app more intelligent and context-aware.
 •	Azure AI Chat Bot 
 Azure  AI Chat Bot: integrated into the Static Dictionary App to provide an interactive and conversational user experience
-## Features
 
-This application has the following features.
-
-
-
-In addition to the above points
 
 ## Demo images
 
@@ -74,14 +67,19 @@ In addition to the above points
 
 ![6](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/38abe9ba-a5e9-4ed7-8ed0-f46e46da3ae3)
 ![7](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/d10ff986-cc9b-435f-bb9c-67e25541617a)
+![113](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/549bc5cf-ab43-4205-aced-57bae99271ef)
+![112](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/414c28bf-8322-4d2e-b218-8fbf582d933f)
+
 ![8](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/dcb2258a-6758-42f4-90cb-482eb4701db1)
 ![9](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/05682c4e-fada-4d7e-b456-73c88bfbf959)
+![111](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/3875dd08-da3a-48f6-8ed1-1abb24481d0f)
 ![10](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/7a2f29d7-cfaa-4808-8f6b-105e55b2d76a)
 ![11](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/9af88af5-169b-4078-ac7a-e79d28cbd82e)
 ![12](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/c64ed65f-3d61-4f67-82cb-d29eca729d1d)
 ![13](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/340988a5-e93e-4395-b609-46949ca65973)
 ![14](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/c75c5509-f519-49c3-ae6b-04ed51aeceb4)
+![113](https://github.com/Vishaljayaramu/Dictionary/assets/144142247/5dc3d31b-1f1d-43d8-9e62-b126bf2be312)
 
 ## Copyright
 
-- Copyright 2023 ©
+- Copyright 2023 ©  https://github.com/Vishaljayaramu
